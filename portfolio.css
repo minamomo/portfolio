@@ -1,0 +1,75 @@
+.title{
+  text-align: center;
+  padding-top: 50px;
+}
+.neonpink-50{
+  font-size:50px;
+  font-weight:bold;
+  font-family: amp;quot sans serif&amp;quot;
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #ff00de, 0 0 70px #ff00de, 0 0 80px #ff00de, 0 0 100px #ff00de, 0 0 150px #ff00de;
+}
+.fs-25{
+  font-size: 25px;
+}
+.fs-20{
+  font-size: 20px;
+}
+.profile{
+}
+.name-career{
+  width: 50%;
+  margin-top: 30px;
+}
+.img-mi{
+  margin-right: 5%;
+  padding-top: 60px;
+
+}
+
+.d-flex{
+  display: flex;
+  margin-left: 18%;
+}
+.neon-yellow{
+  margin: 1.5em 0 0 0;
+  width: 150px;
+  font-size:25px;
+  font-family: amp;quot sans serif&amp;quot;
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 20px #ffff00, 0 0 20px #ffff00, 0 0 40px #ffff00, 0 0 30px #ffff00, 0 0 75px #ffff00;
+}
+.box-pink {
+  width: 450px;
+  padding: 0.2em 0.5em;
+  margin: 2em 0 0 0;
+
+  color: #565656;
+  background: #ffeaea;
+  box-shadow: 0px 0px 0px 10px #ffeaea;
+  border: dashed 2px #ffc3c3;
+  border-radius: 8px;
+}
+.box-pink p {
+  margin: 0; 
+  padding: 0;
+}
+.group{
+  display: flex;
+}
+.form{
+  text-align: center;
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+.neonblue-25{
+  margin-bottom: 10px;
+  font-size:25px;
+  font-weight:bold;
+  font-family: amp;quot sans serif&amp;quot;
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #348BF6, 0 0 70px #348BF6, 0 0 80px #348BF6, 0 0 100px #348BF6, 0 0 150px #348BF6;
+}
+.marginr-50{
+  margin-right: 50px;
+}
+
